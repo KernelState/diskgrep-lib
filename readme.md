@@ -1,5 +1,7 @@
 ### The diskgrep library usage guide
 
+sorry but the current version is trash a lil it was made at 3:30 am i wanted to sleep lol
+
 # Installation
 currently there is no library for diskgrep on crates.io so just git clone it to the root dir of your project
 So your root dir should look like this:
